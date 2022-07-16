@@ -1,0 +1,5 @@
+players.bin
+main
+*.o
+*.d
+.vscode
