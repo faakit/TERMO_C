@@ -2,4 +2,5 @@ players.bin
 main
 *.o
 *.d
+sorted.txt
 .vscode
